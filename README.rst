@@ -16,6 +16,8 @@ At the heart of every subcorpus is a folder called ``MS3`` containing a set of a
     :alt: Beginning of Beethoven's 8th String Quartet op. 59/2
     :align: center
 
+    .. class:: center
+
     Beginning of Beethoven's 8th String Quartet op. 59/2 with harmony labels
 
 In addition to the annotated scores in the ``MS3`` folder, the following folders contain the same information in a tabular format:
