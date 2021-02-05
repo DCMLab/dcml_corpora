@@ -1,0 +1,4 @@
+[submodule "beethoven_string_quartets"]
+	path = ABC
+	url = https://github.com/DCMLab/ABC/
+	branch = v2
