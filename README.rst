@@ -14,9 +14,7 @@ At the heart of every subcorpus is a folder called ``MS3`` containing a set of a
 
 .. figure:: img/ABC_n08op59-2_01.png
     :alt: Beginning of Beethoven's 8th String Quartet op. 59/2
-    :align: center
-
-    .. class:: center
+    :figclass: align-center
 
     Beginning of Beethoven's 8th String Quartet op. 59/2 with harmony labels
 
