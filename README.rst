@@ -10,7 +10,16 @@ This is a meta-repository containing all corpora published and curated by the `D
 What do the corpora include?
 ============================
 
-At the heart of every subcorpus is a folder called ``MS3`` containing a set of annotated music scores in the `MuseScore 3 <https://musescore.org/>`__ file format ``.mscx``.
+At the heart of every subcorpus is a folder called ``MS3`` containing a set of annotated music scores in the MuseScore file format ``.mscx``. In order to display the files you need to :ref:`download the data<downloading>` to your computer and open them with `MuseScore 3 <https://musescore.org/download>`__. For example, the beginning of the file ``ABC/MS3/n08op59-2_01.mscx`` looks like this:
+
+.. figure:: img/ABC_n08op59-2_01.png
+    :alt: Beginning of Beethoven's 8th String Quartet op. 59/2
+
+    Beginning of Beethoven's 8th String Quartet op. 59/2
+
+
+
+.. _downloading:
 
 Downloading the data
 ====================
