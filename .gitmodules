@@ -2,3 +2,7 @@
 	path = ABC
 	url = https://github.com/DCMLab/ABC/
 	branch = v2
+[submodule "mozart_piano_sonatas"]
+	path = mozart_piano_sonatas
+	url = https://github.com/DCMLab/mozart_piano_sonatas/
+	branch = main
