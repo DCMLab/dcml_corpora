@@ -10,8 +10,13 @@ This is a meta-repository containing all corpora published and curated by the `D
 *ABC*
     The Annotated Beethoven Corpus containing L. v. Beethoven's string quartets.
 
+*corelli*
+    Arcangelo Corelli's trio sonatas opp. 1, 3 and 4.
+
 *mozart_piano_sonatas*
     All piano sonatas by W.A. Mozart.
+
+
 
 What do the corpora include?
 ============================

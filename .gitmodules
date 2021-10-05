@@ -6,3 +6,7 @@
 	path = mozart_piano_sonatas
 	url = https://github.com/DCMLab/mozart_piano_sonatas/
 	branch = main
+[submodule "corelli"]
+	path = corelli
+	url = https://github.com/DCMLab/corelli.git
+	branch = main
