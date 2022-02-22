@@ -5,7 +5,7 @@ DCML Corpora
 What is this?
 =============
 
-This is a meta-repository containing all corpora published and curated by the `Digital and Cognitive Musicology Lab Lausanne <https://www.epfl.ch/labs/dcml/>`__. Currently, only two corpora are publicly available, but more are to follow.
+This is a meta-repository containing all corpora published and curated by the `Digital and Cognitive Musicology Lab Lausanne <https://www.epfl.ch/labs/dcml/>`__. Currently, only three corpora are publicly available, but more are to follow.
 
 *ABC*
     The Annotated Beethoven Corpus containing L. v. Beethoven's string quartets.
@@ -35,7 +35,7 @@ In addition to the annotated scores in the ``MS3`` folder, the following folders
 * **measures**: TSV files representing one measure per row
 * **harmonies**: TSV files representing one harmony label per row
 
-The `TSV files <https://en.wikipedia.org/wiki/Tab-separated_values>`__ (tab-separated values) can be opened with any modern data processor, programming language, or spreadsheet, for example with `LibreOffice Calc <https://www.libreoffice.org/discover/calc/>`__. They were created with the MuseScore parser `ms3 <https://github.com/johentsch/ms3>`__ which can be used to extract other information from MuseScore files, too, such as articulation, lyrics, or rests.
+The `TSV files <https://en.wikipedia.org/wiki/Tab-separated_values>`__ (tab-separated values) can be opened with any modern data processor, programming language, or spreadsheet, for example with `LibreOffice Calc <https://www.libreoffice.org/discover/calc/>`__. They were created with the MuseScore parser `ms3 <https://github.com/johentsch/ms3>`__ which can be used to extract other information from MuseScore files, too, such as articulation, lyrics, or rests. Its `documentation <https://johentsch.github.io/ms3/build/html/manual.html#column-names>`__ includes information on what the columns in the above-mentioned TSV files contain.
 
 Harmony Labels
 --------------
@@ -47,8 +47,16 @@ The harmonic analysis in the above example follows the `DCML harmonic annotation
 Downloading the data
 ====================
 
+Clone this repo
+---------------
+
 This repository contains submodules. You can use this command to clone it
 
 ``git clone --recurse-submodules -j8 https://github.com/DCMLab/dcml_corpora.git``
 
-``-j8`` is available from git >= 2.8 and fetches up to 8 submodules at a time in parallel.
+Downloading manually
+--------------------
+
+If you are unfamiliar with Git, you can download the corpora individually as
+ZIP files. Click on the respective folder above (e.g. ``ABC @ <commit>``) and
+click on (the green button) ``Code -> Download ZIP``.
