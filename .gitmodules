@@ -10,3 +10,39 @@
 	path = corelli
 	url = git@github.com:DCMLab/corelli.git
 	branch = main
+[submodule "beethoven_piano_sonatas"]
+	path = beethoven_piano_sonatas
+	url = https://github.com/DCMLab/beethoven_piano_sonatas
+	branch = main
+[submodule "chopin_mazurkas"]
+	path = chopin_mazurkas
+	url = https://github.com/DCMLab/chopin_mazurkas
+	branch = main
+[submodule "debussy_suite_bergamasque"]
+	path = debussy_suite_bergamasque
+	url = https://github.com/DCMLab/debussy_suite_bergamasque
+	branch = main
+[submodule "dvorak_silhouettes"]
+	path = dvorak_silhouettes
+	url = https://github.com/DCMLab/dvorak_silhouettes
+	branch = main
+[submodule "grieg_lyrical_pieces"]
+	path = grieg_lyrical_pieces
+	url = https://github.com/DCMLab/grieg_lyrical_pieces
+	branch = main
+[submodule "liszt_pelerinage"]
+	path = liszt_pelerinage
+	url = https://github.com/DCMLab/liszt_pelerinage
+	branch = main
+[submodule "medtner_tales"]
+	path = medtner_tales
+	url = https://github.com/DCMLab/medtner_tales
+	branch = main
+[submodule "schumann_kinderszenen"]
+	path = schumann_kinderszenen
+	url = https://github.com/DCMLab/schumann_kinderszenen
+	branch = main
+[submodule "tchaikovsky_seasons"]
+	path = tchaikovsky_seasons
+	url = https://github.com/DCMLab/tchaikovsky_seasons
+	branch = main
