@@ -10,11 +10,43 @@ This is a meta-repository containing all corpora published and curated by the `D
 *ABC*
     The Annotated Beethoven Corpus containing L. v. Beethoven's string quartets.
 
+*beethoven_piano_sonatas*
+    Ludwig van Beethoven - Piano Sonatas [[DOI](https://doi.org/10.5281/zenodo.7473560)][[ZIP](https://github.com/DCMLab/beethoven_piano_sonatas/archive/refs/heads/main.zip)]
+
 *corelli*
     Arcangelo Corelli's trio sonatas opp. 1, 3 and 4.
 
+*chopin_mazurkas*
+    Frédéric Chopin - Mazurkas [[DOI](https://doi.org/10.5281/zenodo.7473566)][[ZIP](https://github.com/DCMLab/chopin_mazurkas/archive/refs/heads/main.zip)]
+
+*debussy_suite_bergamasque*
+    Claude Debussy - Suite Bergamasque [[DOI](https://doi.org/10.5281/zenodo.7473568)][[ZIP](https://github.com/DCMLab/debussy_suite_bergamasque/archive/refs/heads/main.zip)]
+
+*dvorak_silhouettes*
+    Antonín Dvořák - Silhouettes [[DOI](https://doi.org/10.5281/zenodo.7473576)][[ZIP](https://github.com/DCMLab/dvorak_silhouettes/archive/refs/heads/main.zip)]
+
+*grieg_lyrical_pieces*
+    Edvard Grieg - Lyric Pieces [[DOI](https://doi.org/10.5281/zenodo.7473578)][[ZIP](https://github.com/DCMLab/grieg_lyrical_pieces/archive/refs/heads/main.zip)]
+
+*liszt_pelerinage*
+    Franz Liszt - Années de Pèlerinage [[DOI](https://doi.org/10.5281/zenodo.7473580)][[ZIP](https://github.com/DCMLab/liszt_pelerinage/archive/refs/heads/main.zip)]
+
+*medtner_tales*
+    Nikolai Medtner - Tales [[DOI](https://doi.org/10.5281/zenodo.7473528)][[ZIP](https://github.com/DCMLab/medtner_tales/archive/refs/heads/main.zip)]
+
 *mozart_piano_sonatas*
     All piano sonatas by W.A. Mozart.
+
+*schumann_kinderszenen*
+    Robert Schumann - Kinderszenen [[DOI](https://doi.org/10.5281/zenodo.7473582)][[ZIP](https://github.com/DCMLab/schumann_kinderszenen/archive/refs/heads/main.zip)]
+
+*tchaikovsky_seasons*
+    Pyotr Tchaikovsky - The Seasons [[DOI](https://doi.org/10.5281/zenodo.7473586)][[ZIP](https://github.com/DCMLab/tchaikovsky_seasons/archive/refs/heads/main.zip)]
+
+
+
+
+
 
 
 
