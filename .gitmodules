@@ -1,7 +1,7 @@
 [submodule "beethoven_string_quartets"]
 	path = ABC
 	url = git@github.com:DCMLab/ABC.git
-	branch = v2
+	branch = main
 [submodule "mozart_piano_sonatas"]
 	path = mozart_piano_sonatas
 	url = git@github.com:DCMLab/mozart_piano_sonatas.git
