@@ -26,9 +26,9 @@
 	path = dvorak_silhouettes
 	url = https://github.com/DCMLab/dvorak_silhouettes
 	branch = main
-[submodule "grieg_lyrical_pieces"]
-	path = grieg_lyrical_pieces
-	url = https://github.com/DCMLab/grieg_lyrical_pieces
+[submodule "grieg_lyric_pieces"]
+	path = grieg_lyric_pieces
+	url = https://github.com/DCMLab/grieg_lyric_pieces
 	branch = main
 [submodule "liszt_pelerinage"]
 	path = liszt_pelerinage
