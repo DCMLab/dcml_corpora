@@ -66,6 +66,7 @@ In addition to the annotated scores in the ``MS3`` folder, the following folders
 * **notes**: TSV files representing one note per row
 * **measures**: TSV files representing one measure per row
 * **harmonies**: TSV files representing one harmony label per row
+* **chords**: TSV files where each row represent a set of notes with the same onset and duration, appearin in the same notational layer. Columns represent various dynamics, articulation sings, staff texts, figured bass, etc.
 
 The `TSV files <https://en.wikipedia.org/wiki/Tab-separated_values>`__ (tab-separated values) can be opened with any modern data processor, programming language, or spreadsheet, for example with `LibreOffice Calc <https://www.libreoffice.org/discover/calc/>`__. They were created with the MuseScore parser `ms3 <https://github.com/johentsch/ms3>`__ which can be used to extract other information from MuseScore files, too, such as articulation, lyrics, or rests. Its `documentation <https://johentsch.github.io/ms3/build/html/manual.html#column-names>`__ includes information on what the columns in the above-mentioned TSV files contain.
 
@@ -78,6 +79,28 @@ The harmonic analysis in the above example follows the `DCML harmonic annotation
 
 Downloading the data
 ====================
+
+Download as Frictionless datapackage
+------------------------------------
+
+Since the second half of 2023, all releases of DCML corpora are accompanied by [frictionless datapackages](https://specs.frictionlessdata.io/tabular-data-package/).
+The datapackage contains the following files:
+
+* [dcml_corpora.zip](https://github.com/DCMLab/dcml_corpora/releases/latest/download/dcml_corpora.zip), a ZIP file containing one TSV file per facet, that corresponds to a concatenation of the TSV files in the respective folders of all corpora, that is
+  * `dcml_corpora.chords.tsv`
+  * `dcml_corpora.expanded.tsv`
+  * `dcml_corpora.measures.tsv`
+  * `dcml_corpora.metadata.tsv` (concatenation of a single file)
+  * `dcml_corpora.notes.tsv`
+* [dcml_corpora.datapackage.json](https://github.com/DCMLab/dcml_corpora/releases/latest/download/dcml_corpora.datapackage.json), the package descriptor.
+
+If one has the [frictionless framework](https://framework.frictionlessdata.io/) installed and downloaded both files,
+one can use the descriptor to validate the package using the command
+
+```bash
+frictionless validate dcml_corpora.datapackage.json
+```
+
 
 Clone this repo
 ---------------
