@@ -83,18 +83,18 @@ Downloading the data
 Download as Frictionless datapackage
 ------------------------------------
 
-Since the second half of 2023, all releases of DCML corpora are accompanied by [frictionless datapackages](https://specs.frictionlessdata.io/tabular-data-package/).
+Since the second half of 2023, all releases of DCML corpora are accompanied by `frictionless datapackages <https://specs.frictionlessdata.io/tabular-data-package/>`__.
 The datapackage contains the following files:
 
-* [dcml_corpora.zip](https://github.com/DCMLab/dcml_corpora/releases/latest/download/dcml_corpora.zip), a ZIP file containing one TSV file per facet, that corresponds to a concatenation of the TSV files in the respective folders of all corpora, that is
+* `dcml_corpora.zip <https://github.com/DCMLab/dcml_corpora/releases/latest/download/dcml_corpora.zip>`__, a ZIP file containing one TSV file per facet, that corresponds to a concatenation of the TSV files in the respective folders of all corpora, that is
   * `dcml_corpora.chords.tsv`
   * `dcml_corpora.expanded.tsv`
   * `dcml_corpora.measures.tsv`
   * `dcml_corpora.metadata.tsv` (concatenation of a single file)
   * `dcml_corpora.notes.tsv`
-* [dcml_corpora.datapackage.json](https://github.com/DCMLab/dcml_corpora/releases/latest/download/dcml_corpora.datapackage.json), the package descriptor.
+* `dcml_corpora.datapackage.json <https://github.com/DCMLab/dcml_corpora/releases/latest/download/dcml_corpora.datapackage.json>`__, the package descriptor.
 
-If one has the [frictionless framework](https://framework.frictionlessdata.io/) installed and downloaded both files,
+If one has the `frictionless framework <https://framework.frictionlessdata.io/>`__ installed and downloaded both files,
 one can use the descriptor to validate the package using the command
 
 ```bash
