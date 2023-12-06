@@ -5,7 +5,7 @@ DCML Corpora
 What is this?
 =============
 
-This is a meta-repository containing all corpora published and curated by the `Digital and Cognitive Musicology Lab Lausanne <https://www.epfl.ch/labs/dcml/>`__. Currently, only three corpora are publicly available, but more are to follow.
+This is a meta-repository containing all corpora published and curated by the `Digital and Cognitive Musicology Lab Lausanne <https://www.epfl.ch/labs/dcml/>`__. Twelve corpora are publicly available; more are to follow.
 
 *ABC*
     The Annotated Beethoven Corpus containing L. v. Beethoven's string quartets.
