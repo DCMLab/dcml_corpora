@@ -68,7 +68,7 @@ In addition to the annotated scores in the ``MS3`` folder, the following folders
 * **harmonies**: TSV files representing one harmony label per row
 * **chords**: TSV files where each row represent a set of notes with the same onset and duration, appearin in the same notational layer. Columns represent various dynamics, articulation sings, staff texts, figured bass, etc.
 
-The `TSV files <https://en.wikipedia.org/wiki/Tab-separated_values>`__ (tab-separated values) can be opened with any modern data processor, programming language, or spreadsheet, for example with `LibreOffice Calc <https://www.libreoffice.org/discover/calc/>`__. They were created with the MuseScore parser `ms3 <https://github.com/johentsch/ms3>`__ which can be used to extract other information from MuseScore files, too, such as articulation, lyrics, or rests. Its `documentation <https://johentsch.github.io/ms3/build/html/manual.html#column-names>`__ includes information on what the columns in the above-mentioned TSV files contain.
+The `TSV files <https://en.wikipedia.org/wiki/Tab-separated_values>`__ (tab-separated values) can be opened with any modern data processor, programming language, or spreadsheet, for example with `LibreOffice Calc <https://www.libreoffice.org/discover/calc/>`__. They were created with the MuseScore parser `ms3 <https://github.com/johentsch/ms3>`__ which can be used to extract other information from MuseScore files, too, such as articulation, lyrics, or rests. Its `documentation <https://johentsch.github.io/ms3/build/html/manual/index.html#column-names>`__ includes information on what the columns in the above-mentioned TSV files contain.
 
 Harmony Labels
 --------------
